@@ -1,1 +1,2 @@
+include ':okhttpprofiler-no-op'
 include ':app', ':okhttpprofiler'
